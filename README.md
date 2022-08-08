@@ -1,4 +1,4 @@
 # git_test
 
-My First Githu Repo! (Actually Not)
+My First Github Repo! (Actually Not)
 Hello Odin!
